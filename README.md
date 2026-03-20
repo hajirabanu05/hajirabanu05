@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hajira Banu</h1>
-<h3 align="center">i'm a passionate coder and a problem solver.</h3>
+<h1 align="center">Hi, Nice to see you here.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousdarkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousdarkcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousdarkcoder" alt="anonymousdarkcoder" /></a> </p>
+ I'm Hajira Banu, a 3rd-year undergraduate student pursuing a degree in AI & ML
 
-- 🔭 I’m currently working on **AIML and BLOCKCHAIN related projects**
+ I enjoy solving problems and creating cool projects
 
-- 🌱 I’m currently learning **backend, AIML and blockchain**
+ Always interested in learning and building new things
 
-- 👯 I’m looking to collaborate on **AIML related projects**
+ In my free time, I like reading novels and watching anime
 
-- 📫 How to reach me **hajirabanu8080@gmail.com**
 
 <h3 align="left"></h3>
 <p align="left">
