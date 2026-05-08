@@ -2,6 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anonymousdarkcoder.anonymousdarkcoder&left_color=black&right_color=chocolate"  />
+</div>
+
 # ˙✮ About Me ?
 I am Hajira Banu.<br>A third-year undergraduate engineering student at AIT, Chikkamagaluru.<br>I am currently learning Artificial Intelligence and Machine Learning.<br>I enjoy building creative and innovative projects.<br>In my free time, I enjoy watching anime and reading novels.
 
@@ -16,8 +20,6 @@ I am Hajira Banu.<br>A third-year undergraduate engineering student at AIT, Chik
 ![](https://streak-stats.demolab.com/?user=anonymousdarkcoder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anonymousdarkcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=anonymousdarkcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
