@@ -7,7 +7,7 @@
 </div>
 
 # ˙✮ About Me ?
-I am Hajira Banu.<br>A third-year undergraduate engineering student at AIT, Chikkamagaluru.<br>I am currently learning Artificial Intelligence and Machine Learning.<br>I enjoy building creative and innovative projects.<br>In my free time, I enjoy watching anime and reading novels.
+I am Hajira Banu.<br>An undergraduate engineering student at AIT, Chikkamagaluru.<br>I am currently learning Artificial Intelligence and Machine Learning.<br>I enjoy building creative and innovative projects.<br>In my free time, I enjoy watching anime and reading novels.
 
 
 ## ₍^. .^₎⟆ Socials:
