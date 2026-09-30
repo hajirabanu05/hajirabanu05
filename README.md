@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="180" src="./images/gojoo.jpeg" />
+<img height="180" src="./images/Hikawa Koyuki.jpeg" />
 
 <br>
 
