@@ -167,10 +167,6 @@ GitHub:
 [hajirabanu05](https://github.com/hajirabanu05)
 
 
-LeetCode:
-[Hajira_banu](https://leetcode.com/u/Hajira_banu/)
-
-
 Email:
 [hajirabanu8080@gmail.com](mailto:hajirabanu8080@gmail.com)
 
