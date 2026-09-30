@@ -4,7 +4,7 @@
 
 <br>
 
-<sub><i>“Limitless potential. Questionable sleep schedule. Clean commits.”</i></sub>
+<sub><i>“Calm mind. Clean code. Constant growth”</i></sub>
 
 </div>
 
