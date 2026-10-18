@@ -167,10 +167,6 @@ GitHub:
 [hajirabanu05](https://github.com/hajirabanu05)
 
 
-Email:
-[hajirabanu8080@gmail.com](mailto:hajirabanu8080@gmail.com)
-
-
 ────────────────────────────────────────────────────────────
 
 
